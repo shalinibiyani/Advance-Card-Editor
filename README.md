@@ -1,4 +1,4 @@
-# Design Editor
+#  Advanced Card Editor
 
 A modern, feature-rich design editor built with React, TypeScript, and Konva.js. Create beautiful designs with text, shapes, images, and icons on a fixed canvas with powerful editing capabilities.
 
@@ -91,14 +91,10 @@ src/
 
 2. **Install dependencies**
    npm install
-
 # or
-
 yarn install
 
 3. **Start development server**
    npm run dev
-
 # or
-
 yarn dev
