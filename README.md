@@ -87,7 +87,7 @@ src/
 
 1. **Clone the repository**
    git clone <repository-url>
-   cd cardeditor
+   cd foldername
 
 2. **Install dependencies**
    npm install
